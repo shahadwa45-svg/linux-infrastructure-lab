@@ -63,4 +63,9 @@ Created a Bash script (`system_report.sh`) that displays:
 - Bash Scripting
 
 ## Screenshots
-Project screenshots are included to demonstrate the implementation and results.
+![](bash.png)
+
+![](bash1.png)
+
+![](bash2.png)
+Add project screenshots
