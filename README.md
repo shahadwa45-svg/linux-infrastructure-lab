@@ -68,4 +68,6 @@ Created a Bash script (`system_report.sh`) that displays:
 ![](bash1.png)
 
 ![](bash2.png)
+
+
 Add project screenshots
